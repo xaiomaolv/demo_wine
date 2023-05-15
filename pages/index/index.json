@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "logo":"/components/logo/logo",
+    "layout":"/components/layout/layout",
+    "guide":"/components/guide/guide",
+    "tabBar": "/components/tabBar/tabBar"
+  }
+}

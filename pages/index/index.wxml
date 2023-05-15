@@ -1,0 +1,7 @@
+<!--pages/customer/index/index.wxml-->
+<view class="container bg-g">
+  <!-- <layout id="layout"></layout> -->
+  <guide class="guide" ></guide>
+  <logo class="logo" bind:accredit="handleAccredit" title="授权"></logo>
+  <tabBar></tabBar>
+</view>

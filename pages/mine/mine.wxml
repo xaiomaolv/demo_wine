@@ -1,0 +1,5 @@
+<!--pages/mine/mine.wxml-->
+<view class="container bg-w">
+  <logo class="logo" bind:accredit="handleAccredit" title="授权"></logo>
+</view>
+<tabBar></tabBar>
